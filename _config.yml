@@ -1,0 +1,23 @@
+name: TimoBaker
+favicon: null
+layout_spectrum: 0.904782789060846
+typography_spectrum: 0.0018700971268117428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8506047285627574
+  lightness: 0.24059933749958873
+  saturation: 0.24372616270557046
+  rhythmicContrast: 0.4416673560626805
+purpose: []
